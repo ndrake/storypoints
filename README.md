@@ -1,6 +1,6 @@
 # storypoints
 
-A simple story point flash card webapp. 
+A simple story point flash card webapp, built with volo and based off the hammer.js carousel demo.
 
 ## Links
 
