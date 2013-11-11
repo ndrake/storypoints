@@ -1,6 +1,6 @@
 {
   "name": "storypoints",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "amd": {
     "baseUrl": "www/js/lib"
   },
